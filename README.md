@@ -1,4 +1,4 @@
-# Real-time-Bus-Tracker-for-Boston-city
+# Real-time-Bus-Tracker
 
 ## Description
 The Bus Tracking Application is a web-based project that displays real-time bus locations on a map using the Google Maps API. It provides a visual representation of the buses on a specified route, updating their positions every few seconds. The application features the following improvements:
